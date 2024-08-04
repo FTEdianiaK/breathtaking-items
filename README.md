@@ -24,6 +24,8 @@
 			<p><i>Yeah, I know, quite the self advertisement, but I'd just like if more people showed their support for the devs of stuff they like (and need) with more than just a like or star. (And I know, money's also great for that, but few lines can go a long way as well, can't they?)</i></p>
 			<p class="mono w3-swide">Recommendation List</p>
 		</td>
+	</tr>
+	<tr>
 		<td>
 			<a href="https://github.com/badges/shields">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&show_owner=true&&theme=maroongold&description_lines_count=1&hide_border=true" style="width:75%;">
