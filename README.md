@@ -10,21 +10,21 @@
 
 <table>
 	<tr>
-		<td style="width:33%;">
+		<td style="width:33%;height:25vh;">
 			<a href="https://github.com/anuraghazra/github-readme-stats">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&&theme=maroongold&description_lines_count=1&hide_border=true" style="width:75%;">
 			</a>
 			<p><i>I love this project so much. It makes GitHub profile creation so much easier, plus it tells me the exact percentage of coding languages I use.</i></p>
 			<p class="mono w3-swide">Profile Widgets</p>
 		</td>
-		<td style="width:33%;">
+		<td style="width:33%;height:25vh;">
 			<a href="https://github.com/FTEdianiaK/breathtaking">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=FTEdianiaK&repo=breathtaking&show_owner=true&&theme=maroongold&description_lines_count=1&hide_border=true" style="width:75%;">
 			</a>
 			<p><i>Yeah, I know, quite the self advertisement, but I'd just like if more people showed their support for the devs of stuff they like (and need) with more than just a like or star. (And I know, money's also great for that, but few lines can go a long way as well, can't they?)</i></p>
 			<p class="mono w3-swide">Recommendation List</p>
 		</td>
-		<td style="width:33%;">
+		<td style="width:33%;height:25vh;">
 			<a href="https://github.com/badges/shields">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&show_owner=true&&theme=maroongold&description_lines_count=1&hide_border=true" style="width:75%;">
 			</a>
