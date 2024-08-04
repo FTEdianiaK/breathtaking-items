@@ -34,7 +34,7 @@ For an even better version visit my [website](https://f-tek.neocities.org/items)
 
 ## Editors
 
-- Editor - **[notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)**
+- Editor - **[notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)**
 
   *Notepad, editor. Whatever you need, Notepad++ can probably do it. (Not really, but at least when it comes to code and text editing, it can.)*
 
@@ -132,7 +132,7 @@ For an even better version visit my [website](https://f-tek.neocities.org/items)
 
   *So far, my favorite for music making. Even easier to use than Bosca Ceoil was (and yes, was). Not good at it, if you wanna know, but... can't have a game without music, I suppose.*
 
-- SFX Creator - **[SFBGames/ChipTone](https://sfbgames.itch.io/chiptone)**
+- SFX Creator - **[SFBGames/ChipTone](https://sfbgames.itch.io/chiptone)**
 
   *Made by the amazing SFBGames and forked from the great DrPetter's sfxr, comes this wonderful sound effect generator. Didn't have a chance to use it for anything yet, but keeping it in my library for sure.*
 
