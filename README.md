@@ -32,6 +32,10 @@ For an even better version visit my [website](https://f-tek.neocities.org/items)
 
   *Truly, an amazing thing, supports Simple Icons (mostly brands) and is so customizable. Really breathtaking.*
 
+- TOC Generator **[thlorenz/doctoc](https://github.com/thlorenz/doctoc)**
+
+  *Makes generating TOCs so much easier, suited perfectly for GitHub and easily updatable.*
+
 ## Editors
 
 - Editor - **[notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)**
